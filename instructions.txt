@@ -1,0 +1,41 @@
+Registration with AJAX
+Registration without page reload
+
+With Page Reload
+Client --- Data ---> Server -> Database(MySQL)
+
+Without Page Reload
+Client --- Data ---> Server (Database)
+
+ClientSide
+	HTML,CSS,JS,JQUERY,Bootstrap,ReactJS,AngularJS,VieJS
+
+BackendSide
+	PHP(ServerSide Scripting Language),MYSQL(Database Server)
+
+AJAX 
+Asyncronous Javascript and XML
+Ajax is Javascript technique to send data to server without page reload
+
+
+AJAX Technique
+	1. Pure JS (XMLHttpRequest Class)
+	2. JQuery (JS Library)
+
+jquery cdn
+Content Delivery Network
+
+Order of Sequence
+1. JQuery Script
+2. Boostrap Script
+
+https://www.w3schools.com/jquERy/jquery_ref_ajax.asp
+
+API  = Application Programming Interface
+
+
+JSON = Javascript Object Notation
+
+Client ----- JSON Data ------->Server
+
+Client <----- Response (200) ------ Sever
